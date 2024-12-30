@@ -31,7 +31,7 @@ A dynamic and interactive overlay for **Teamfight Tactics (TFT)** that helps pla
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tft-companion-overlay.git
+   git clone https://github.com/danofe/tft-companion-overlay.git
    cd tft-companion-overlay
    ```
 2. Install dependencies:
